@@ -1,0 +1,29 @@
+Results summary:
+Each test case was tested with four combinations of sleep times (30/60, 50/50, 50/100, 100/50). 
+The results reveal the on average, increasing the number of producers and/or consumers increases throughput.
+1 producer, 1 consumer:	~309–361
+4 producers, 4 consumers:	~789–1512
+16 producers, 16 consumers:	~3101–5929
+Shorter sleep times lead to higher activity and more items produced and consume. Longer sleep times do the opposite.
+Having only one producer or consumer tends to create a bottleneck. The difference between 1 producer+16 consumers and 1 producer+1 consumer isn't very much with balanced sleep times.
+Having more consumers doesn't help if the producer can't produce enough resources to make use of all the consumers.
+Throughput scales with resources. See 16+16 producers and consumers at 50 ms vs 1+1 with the same conditions.
+Producers: 16
+Consumers: 16
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 5934
+Items Consumed: 5929
+Turnaround Time: 10004 ms
+ 
+vs:
+
+Producers: 1
+Consumers: 1
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 365
+Items Consumed: 361
+Turnaround Time: 10001 ms

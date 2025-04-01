@@ -1,0 +1,8 @@
+Scheduling Policy: FIFO
+Number of processes: 500
+Total elapsed time: 14744
+Throughput: 0.03 processes/unit time
+CPU Utilization: 71.61%
+Average Waiting Time: 17.88
+Average Turnaround Time: 39.00
+Average Response Time: 17.88

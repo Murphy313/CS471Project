@@ -1,0 +1,539 @@
+========= SUMMARY =========
+Producers: 1
+Consumers: 1
+Duration: 10 seconds
+Producer Sleep Max: 30 ms
+Consumer Sleep Max: 60 ms
+Items Produced: 319
+Items Consumed: 309
+Turnaround Time: 10002 ms
+===========================
+
+========= SUMMARY =========
+Producers: 1
+Consumers: 1
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 365
+Items Consumed: 361
+Turnaround Time: 10001 ms
+===========================
+
+========= SUMMARY =========
+Producers: 1
+Consumers: 1
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 100 ms
+Items Produced: 202
+Items Consumed: 192
+Turnaround Time: 10003 ms
+===========================
+
+========= SUMMARY =========
+Producers: 1
+Consumers: 1
+Duration: 10 seconds
+Producer Sleep Max: 100 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 204
+Items Consumed: 204
+Turnaround Time: 10001 ms
+===========================
+
+========= SUMMARY =========
+Producers: 4
+Consumers: 1
+Duration: 10 seconds
+Producer Sleep Max: 30 ms
+Consumer Sleep Max: 60 ms
+Items Produced: 304
+Items Consumed: 294
+Turnaround Time: 10001 ms
+===========================
+
+========= SUMMARY =========
+Producers: 4
+Consumers: 1
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 389
+Items Consumed: 379
+Turnaround Time: 10002 ms
+===========================
+
+========= SUMMARY =========
+Producers: 4
+Consumers: 1
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 100 ms
+Items Produced: 207
+Items Consumed: 197
+Turnaround Time: 10003 ms
+===========================
+
+========= SUMMARY =========
+Producers: 4
+Consumers: 1
+Duration: 10 seconds
+Producer Sleep Max: 100 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 389
+Items Consumed: 379
+Turnaround Time: 10002 ms
+===========================
+
+========= SUMMARY =========
+Producers: 16
+Consumers: 1
+Duration: 10 seconds
+Producer Sleep Max: 30 ms
+Consumer Sleep Max: 60 ms
+Items Produced: 323
+Items Consumed: 313
+Turnaround Time: 10003 ms
+===========================
+
+========= SUMMARY =========
+Producers: 16
+Consumers: 1
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 406
+Items Consumed: 396
+Turnaround Time: 10003 ms
+===========================
+
+========= SUMMARY =========
+Producers: 16
+Consumers: 1
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 100 ms
+Items Produced: 210
+Items Consumed: 200
+Turnaround Time: 10002 ms
+===========================
+
+========= SUMMARY =========
+Producers: 16
+Consumers: 1
+Duration: 10 seconds
+Producer Sleep Max: 100 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 399
+Items Consumed: 389
+Turnaround Time: 10002 ms
+===========================
+
+========= SUMMARY =========
+Producers: 1
+Consumers: 2
+Duration: 10 seconds
+Producer Sleep Max: 30 ms
+Consumer Sleep Max: 60 ms
+Items Produced: 619
+Items Consumed: 609
+Turnaround Time: 10002 ms
+===========================
+
+========= SUMMARY =========
+Producers: 1
+Consumers: 2
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 389
+Items Consumed: 389
+Turnaround Time: 10001 ms
+===========================
+
+========= SUMMARY =========
+Producers: 1
+Consumers: 2
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 100 ms
+Items Produced: 382
+Items Consumed: 377
+Turnaround Time: 10001 ms
+===========================
+
+========= SUMMARY =========
+Producers: 1
+Consumers: 2
+Duration: 10 seconds
+Producer Sleep Max: 100 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 201
+Items Consumed: 201
+Turnaround Time: 10002 ms
+===========================
+
+========= SUMMARY =========
+Producers: 4
+Consumers: 2
+Duration: 10 seconds
+Producer Sleep Max: 30 ms
+Consumer Sleep Max: 60 ms
+Items Produced: 682
+Items Consumed: 672
+Turnaround Time: 10002 ms
+===========================
+
+========= SUMMARY =========
+Producers: 4
+Consumers: 2
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 784
+Items Consumed: 774
+Turnaround Time: 10002 ms
+===========================
+
+========= SUMMARY =========
+Producers: 4
+Consumers: 2
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 100 ms
+Items Produced: 417
+Items Consumed: 407
+Turnaround Time: 10001 ms
+===========================
+
+========= SUMMARY =========
+Producers: 4
+Consumers: 2
+Duration: 10 seconds
+Producer Sleep Max: 100 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 758
+Items Consumed: 753
+Turnaround Time: 10002 ms
+===========================
+
+========= SUMMARY =========
+Producers: 16
+Consumers: 2
+Duration: 10 seconds
+Producer Sleep Max: 30 ms
+Consumer Sleep Max: 60 ms
+Items Produced: 625
+Items Consumed: 615
+Turnaround Time: 10002 ms
+===========================
+
+========= SUMMARY =========
+Producers: 16
+Consumers: 2
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 785
+Items Consumed: 775
+Turnaround Time: 10002 ms
+===========================
+
+========= SUMMARY =========
+Producers: 16
+Consumers: 2
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 100 ms
+Items Produced: 408
+Items Consumed: 398
+Turnaround Time: 10003 ms
+===========================
+
+========= SUMMARY =========
+Producers: 16
+Consumers: 2
+Duration: 10 seconds
+Producer Sleep Max: 100 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 786
+Items Consumed: 776
+Turnaround Time: 10003 ms
+===========================
+
+========= SUMMARY =========
+Producers: 1
+Consumers: 4
+Duration: 10 seconds
+Producer Sleep Max: 30 ms
+Consumer Sleep Max: 60 ms
+Items Produced: 612
+Items Consumed: 612
+Turnaround Time: 10002 ms
+===========================
+
+========= SUMMARY =========
+Producers: 1
+Consumers: 4
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 403
+Items Consumed: 403
+Turnaround Time: 10002 ms
+===========================
+
+========= SUMMARY =========
+Producers: 1
+Consumers: 4
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 100 ms
+Items Produced: 397
+Items Consumed: 397
+Turnaround Time: 10003 ms
+===========================
+
+========= SUMMARY =========
+Producers: 1
+Consumers: 4
+Duration: 10 seconds
+Producer Sleep Max: 100 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 183
+Items Consumed: 183
+Turnaround Time: 10002 ms
+===========================
+
+========= SUMMARY =========
+Producers: 4
+Consumers: 4
+Duration: 10 seconds
+Producer Sleep Max: 30 ms
+Consumer Sleep Max: 60 ms
+Items Produced: 1323
+Items Consumed: 1315
+Turnaround Time: 10002 ms
+===========================
+
+========= SUMMARY =========
+Producers: 4
+Consumers: 4
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 1519
+Items Consumed: 1512
+Turnaround Time: 10002 ms
+===========================
+
+========= SUMMARY =========
+Producers: 4
+Consumers: 4
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 100 ms
+Items Produced: 798
+Items Consumed: 789
+Turnaround Time: 10001 ms
+===========================
+
+========= SUMMARY =========
+Producers: 4
+Consumers: 4
+Duration: 10 seconds
+Producer Sleep Max: 100 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 773
+Items Consumed: 773
+Turnaround Time: 10001 ms
+===========================
+
+========= SUMMARY =========
+Producers: 16
+Consumers: 4
+Duration: 10 seconds
+Producer Sleep Max: 30 ms
+Consumer Sleep Max: 60 ms
+Items Produced: 1284
+Items Consumed: 1274
+Turnaround Time: 10002 ms
+===========================
+
+========= SUMMARY =========
+Producers: 16
+Consumers: 4
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 1542
+Items Consumed: 1533
+Turnaround Time: 10003 ms
+===========================
+
+========= SUMMARY =========
+Producers: 16
+Consumers: 4
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 100 ms
+Items Produced: 803
+Items Consumed: 793
+Turnaround Time: 10004 ms
+===========================
+
+========= SUMMARY =========
+Producers: 16
+Consumers: 4
+Duration: 10 seconds
+Producer Sleep Max: 100 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 1527
+Items Consumed: 1517
+Turnaround Time: 10003 ms
+===========================
+
+========= SUMMARY =========
+Producers: 1
+Consumers: 16
+Duration: 10 seconds
+Producer Sleep Max: 30 ms
+Consumer Sleep Max: 60 ms
+Items Produced: 599
+Items Consumed: 599
+Turnaround Time: 10003 ms
+===========================
+
+========= SUMMARY =========
+Producers: 1
+Consumers: 16
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 365
+Items Consumed: 365
+Turnaround Time: 10002 ms
+===========================
+
+========= SUMMARY =========
+Producers: 1
+Consumers: 16
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 100 ms
+Items Produced: 382
+Items Consumed: 382
+Turnaround Time: 10004 ms
+===========================
+
+========= SUMMARY =========
+Producers: 1
+Consumers: 16
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 100 ms
+Items Produced: 385
+Items Consumed: 385
+Turnaround Time: 10002 ms
+===========================
+
+========= SUMMARY =========
+Producers: 1
+Consumers: 16
+Duration: 10 seconds
+Producer Sleep Max: 100 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 189
+Items Consumed: 189
+Turnaround Time: 10002 ms
+===========================
+
+========= SUMMARY =========
+Producers: 4
+Consumers: 16
+Duration: 10 seconds
+Producer Sleep Max: 30 ms
+Consumer Sleep Max: 60 ms
+Items Produced: 2449
+Items Consumed: 2449
+Turnaround Time: 10002 ms
+===========================
+
+========= SUMMARY =========
+Producers: 4
+Consumers: 16
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 1558
+Items Consumed: 1558
+Turnaround Time: 10002 ms
+===========================
+
+========= SUMMARY =========
+Producers: 4
+Consumers: 16
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 100 ms
+Items Produced: 1552
+Items Consumed: 1552
+Turnaround Time: 10003 ms
+===========================
+
+========= SUMMARY =========
+Producers: 4
+Consumers: 16
+Duration: 10 seconds
+Producer Sleep Max: 100 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 793
+Items Consumed: 793
+Turnaround Time: 10003 ms
+===========================
+
+========= SUMMARY =========
+Producers: 16
+Consumers: 16
+Duration: 10 seconds
+Producer Sleep Max: 30 ms
+Consumer Sleep Max: 60 ms
+Items Produced: 5174
+Items Consumed: 5164
+Turnaround Time: 10006 ms
+===========================
+
+========= SUMMARY =========
+Producers: 16
+Consumers: 16
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 5934
+Items Consumed: 5929
+Turnaround Time: 10004 ms
+===========================
+
+========= SUMMARY =========
+Producers: 16
+Consumers: 16
+Duration: 10 seconds
+Producer Sleep Max: 50 ms
+Consumer Sleep Max: 100 ms
+Items Produced: 3111
+Items Consumed: 3101
+Turnaround Time: 10005 ms
+===========================
+
+========= SUMMARY =========
+Producers: 16
+Consumers: 16
+Duration: 10 seconds
+Producer Sleep Max: 100 ms
+Consumer Sleep Max: 50 ms
+Items Produced: 3184
+Items Consumed: 3184
+Turnaround Time: 10004 ms
+===========================
+
