@@ -537,3 +537,14 @@ Items Consumed: 3184
 Turnaround Time: 10004 ms
 ===========================
 
+========= SUMMARY =========
+Producers: 16
+Consumers: 1
+Duration: 10 seconds
+Producer Sleep Max: 30 ms
+Consumer Sleep Max: 60 ms
+Items Produced: 345
+Items Consumed: 335
+Turnaround Time: 10003 ms
+===========================
+
